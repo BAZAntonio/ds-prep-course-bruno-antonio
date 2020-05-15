@@ -2,7 +2,7 @@
 
 In this repository you can find the Small Learning Units (SLU) 01 and SLU 03 that I wrote for the Lisbon Data Science Starters Academy (LDSSA) Prep Course after revision by fellow volunteers. These are detailed lessons on Python programming sprinkled with humour.
 
-On `./week 1/SLU01 - Programming Basics` the introductory concepts of Python are explored, while on `./week 2/SLU03 - Flow Control` the students are introduced to `for`-loops and `if` statements.
+On `./week 1/SLU01 - Programming Basics` the introductory concepts of Python are explored, while on `./week 2/SLU03 - Flow Control` the students are introduced to `for` loops and `if` statements.
 
 You can preview the notebooks on Github. To solve the exercises, use a Jupyter Notebook web application.
 
